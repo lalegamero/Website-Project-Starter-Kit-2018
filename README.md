@@ -13,9 +13,9 @@ Gulp is the one that will run all the compilation, watchers and others tasks. To
 
 Please feel free to clone or download the source files into your computer:
 
-```url```
+```https://github.com/lalegamero/Website-Project-Starter-Kit-2018.git```
 
-Alternatively, you can [download](url) this repository.
+Alternatively, you can [download](https://github.com/lalegamero/Website-Project-Starter-Kit-2018.git) this repository.
 
 ## Install required modules
 Open your terminal window and change into the source directory where you have cloned or downloaded the repo to. Run the command:
