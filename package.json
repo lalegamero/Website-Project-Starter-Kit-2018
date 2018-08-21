@@ -1,5 +1,5 @@
 {
-  "name": "national-university-project",
+  "name": "website-starter-project-2018",
   "version": "1.0.0",
   "description": "A local environement to optimize and minify CSS, JS & HTML files",
   "main": "gulpfile.js",

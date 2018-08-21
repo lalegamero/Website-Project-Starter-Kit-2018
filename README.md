@@ -15,7 +15,7 @@ Please feel free to clone or download the source files into your computer:
 
 ```https://github.com/lalegamero/Website-Project-Starter-Kit-2018.git```
 
-Alternatively, you can [download](https://github.com/lalegamero/Website-Project-Starter-Kit-2018.git) this repository.
+Alternatively, you can [download](https://github.com/lalegamero/Website-Project-Starter-Kit-2018/archive/master.zip) this repository.
 
 ## Install required modules
 Open your terminal window and change into the source directory where you have cloned or downloaded the repo to. Run the command:
