@@ -1,0 +1,20 @@
+# humanstxt.org/
+
+Thanks for looked at my humans.txt!
+
+/* TEAM */
+Developer: Alex Gamero
+Site: http://ag-webdesign.com/
+LinkedIn: https://www.linkedin.com/in/alexgamerograu/
+Location: San Diego, United States.
+
+
+/* SITE */
+Built With:
+HTML (HTML5 Doctype), Sass/CSS, Media Queries, JavaScript (jQuery)
+
+Software:
+Affinity Photo, Illustrator, ImageOptim, Web browsers, Github.
+
+Language:
+English
