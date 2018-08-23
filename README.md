@@ -13,19 +13,19 @@ Gulp is the one that will run all the compilation, watchers and others tasks. To
 
 Please feel free to clone or download the source files into your computer:
 
-```https://github.com/lalegamero/Website-Project-Starter-Kit-2018.git```
+`https://github.com/lalegamero/Website-Project-Starter-Kit-2018.git`
 
 Alternatively, you can [download](https://github.com/lalegamero/Website-Project-Starter-Kit-2018/archive/master.zip) this repository.
 
 ## Install required modules
 Open your terminal window and change into the source directory where you have cloned or downloaded the repo to. Run the command:
 
-```npm install```
+`npm install`
 
 ## Initialise the environment
 Once all of the required node modules have been downloaded and installed, run the following command:
 
-```gulp```
+`gulp`
 
 This will generate the CSS, JS, & HTML files. It will compile the project and start a server that will refresh every time you change something in the code.
 
@@ -39,18 +39,20 @@ Here are commands you can run:
 
 ## Folder Structure
 
-|-- dist
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- css
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- style.min.css
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- js
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- main.min.js
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- index.html (minified)
-|-- src
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- css
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- main.css
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- js
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- sass
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- index.html
+```
+|-- dist       
+    |-- css
+        |-- style.min.css       
+    |-- js             
+        |-- main.min.js       
+    |-- index.html (minified)
+|-- src       
+    |-- css             
+        |-- main.css       
+    |-- js       
+    |-- sass       
+    |-- index.html
+```
 
 This is just a basic start but work for most basic project. Enjoy!
 Happy coding!!
