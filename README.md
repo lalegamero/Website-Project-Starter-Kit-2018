@@ -34,6 +34,7 @@ Here are commands you can run:
 * __scripts__: Concatenate all JS file into a single file, minify the single JS file.
 * __cssnano__: Compile Sass files, minify and optimize CSS files, add auto-prefixers.
 * __pages__: Compile and minify HTML files
+* __images__: Optimize and minify images (.png .jpg .svg)
 * __watch__: Watch for any changes on each section.
 
 ## Folder Structure
